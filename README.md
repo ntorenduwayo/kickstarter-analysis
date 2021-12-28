@@ -18,4 +18,4 @@ _ _ Category Statistics, Subcategory Statistics, Outcomes Based on Launch Date
  
 ### Results Summary  
 * Months of May and June were the most successful in for the campaigns - See Outcomes Based on Launch Date pivot chart
-file:///C:/Users/jpndu/OneDrive/Desktop/Class%20Work_Bootcamp%202021-22/Crowdfunding%20Analysis/Outcomes%20Based%20on%20Launch%20Date%20Graph.png
+
