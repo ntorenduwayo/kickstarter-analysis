@@ -16,6 +16,12 @@ _ _ Category Statistics, Subcategory Statistics, Outcomes Based on Launch Date
 
 * Box-Plots and a Five-Number Summary (i.e. The minimum, Q1 (the first quartile), the median, Q3 (the third quartile), the maximum) - See Box Plots worksheet
  
-### Results Summary  
+### Results Summary 
+* The theater parent category outcomes in the plays subcategories were the most successful campaigns
+
+* _ _ See the chart below:
+
 * Months of May and June were the most successful in for the campaigns - See Outcomes Based on Launch Date pivot chart
+
+* _ _ See the chart below:
 ![Outcomes Based on Launch Date Graph](https://user-images.githubusercontent.com/34750363/147601746-001417e3-8206-407d-9632-6ef3ab33c9e4.png)
