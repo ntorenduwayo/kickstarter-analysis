@@ -20,6 +20,9 @@ _ _ Category Statistics, Subcategory Statistics, Outcomes Based on Launch Date
 * The theater parent category outcomes in the plays subcategories were the most successful campaigns
 
 * _ _ See the chart below:
+![Parent Category Outcomes Graph](https://user-images.githubusercontent.com/34750363/147616472-5ff084bf-1be5-471e-972c-5db383d942f0.png)
+
+![Subcategory Outcomes Graph](https://user-images.githubusercontent.com/34750363/147616483-cc108046-a7d1-4d71-b8ca-8617567646f0.png)
 
 * Months of May and June were the most successful in for the campaigns - See Outcomes Based on Launch Date pivot chart
 
