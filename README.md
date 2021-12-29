@@ -18,6 +18,7 @@ _ _ Category Statistics, Subcategory Statistics, Outcomes Based on Launch Date
  
 ### Results Summary 
 * The disrtibutions of the Campaign Goals and the Amount Pledged are ot normal:
+![Campaign Goals Distribution vs Total Amount Pledged Distribution](https://user-images.githubusercontent.com/34750363/147621409-b47fb917-abe3-4946-b166-969fae9a1053.png)
 
 * The theater parent category outcomes in the plays subcategories were the most successful campaigns
 
