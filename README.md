@@ -20,6 +20,7 @@ _ _ Category Statistics, Subcategory Statistics, Outcomes Based on Launch Date
 * The disrtibutions of the Campaign Goals and the Amount Pledged are not normal, and as it is seen in the plot box bellow the data is highly skewed to the right i.e. some large values are impacting these distributions. The data has outliers, therefore for any further analysis ths should be taken into consideration. For example, instead of using the mean, it will be more appropriate to use the median as measure of Central Tendency.
 * 
 ![Campaign Goals Distribution vs Total Amount Pledged Distribution](https://user-images.githubusercontent.com/34750363/147622525-84e1f8b5-8918-490f-be3b-a8c32a94a94e.png)
+* The succesful goals were for much smaller amount of money compared to the failed goals.
 
 ![Comparison between goals and pledges distribution](https://user-images.githubusercontent.com/34750363/147623354-475fd2b4-aacf-45b4-8c52-0a56778668e8.png)
 
