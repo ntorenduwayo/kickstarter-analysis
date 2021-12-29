@@ -17,6 +17,8 @@ _ _ Category Statistics, Subcategory Statistics, Outcomes Based on Launch Date
 * Box-Plots and a Five-Number Summary (i.e. The minimum, Q1 (the first quartile), the median, Q3 (the third quartile), the maximum) - See Box Plots worksheet
  
 ### Results Summary 
+* The disrtibutions of the Campaign Goals and the Amount Pledged are ot normal:
+
 * The theater parent category outcomes in the plays subcategories were the most successful campaigns
 
 * _ _ See the chart below:
