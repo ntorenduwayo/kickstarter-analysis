@@ -80,7 +80,7 @@ The campaigns were most successful for the amount $5000, and the most unsuccessf
 My conclusion is that the fund raising campaigns are more successful for small goals (i.e. less than $5000)
 - What are some limitations of this dataset?
 <p>&nbsp;</p> <!-- Adding a blank line -->
-This dataset could be more useful, if it could show the backgroung of the pledging individuals or entities (i.e. participants background). Because, our could run more targeted fund raising campaigns.
+This dataset could be more useful, if it could show the backgroung of the pledging individuals or entities (i.e. participants background). Because, our client could run a more targeted fund raising campaigns.
 - What are some other possible tables and/or graphs that we could create?
 <p>&nbsp;</p> <!-- Adding a blank line -->
- We could run category and subcategory statistics tables, outcomes based on goals by country.
+ We could run category and subcategory statistics tables, and outcomes based on goals by country tables.
