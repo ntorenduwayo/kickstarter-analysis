@@ -78,9 +78,11 @@ May was the successful month for our client campaign, while May and October were
 The campaigns were most successful for the amount $5000, and the most unsuccessful were the campaigns above $45000. For the canceled campaign there were no peculiar month for the cancelation.
 <p>&nbsp;</p> <!-- Adding a blank line -->
 My conclusion is that the fund raising campaigns are more successful for small goals (i.e. less than $5000)
+<p>&nbsp;</p> <!-- Adding a blank line -->
 - What are some limitations of this dataset?
 <p>&nbsp;</p> <!-- Adding a blank line -->
 This dataset could be more useful, if it could show the backgroung of the pledging individuals or entities (i.e. participants background). Because, our client could run a more targeted fund raising campaigns.
+<p>&nbsp;</p> <!-- Adding a blank line -->
 - What are some other possible tables and/or graphs that we could create?
 <p>&nbsp;</p> <!-- Adding a blank line -->
  We could run category and subcategory statistics tables, and outcomes based on goals by country tables.
