@@ -34,3 +34,49 @@ _ _ Category Statistics, Subcategory Statistics, Outcomes Based on Launch Date
 
 * _ _ See the chart below:
 ![Outcomes Based on Launch Date Graph](https://user-images.githubusercontent.com/34750363/147601746-001417e3-8206-407d-9632-6ef3ab33c9e4.png)
+
+<p>&nbsp;</p> <!-- Adding a blank line -->
+
+# Kickstarting with Excel
+
+## Overview of Project
+   Our client’s Fever play fundraising ended nearly reaching its goal within a short time. Now, the client would like to know how different campaigns performed in relation to      their launching dates and their funding goals.
+### Purpose
+   Use excel, and the Kickstarter dataset to analyze and visualize campaign outcomes based on their launch dates and funding goals. Then, draw a conclusion based on analysis        findings.
+## Analysis and Challenges
+      
+### Analysis of Outcomes Based on Launch Date
+    -	Created a new column named "Years" in the Kickstarter dataset using excel YEAR function to extract years from the “Date Created Conversion” column. 
+    -	Created an excel pivot table from the Kickstarter worksheet and moved it in a new worksheet that I labeled “Theater Outcomes by Launch Date."
+    -	Filtered the pivot table according to "Parent Category" and "Years” and placed the appropriate pivot table fields in the columns (i.e. outcomes), rows (i.e. Date Created         Conversion), and values (i.e. outcomes)
+    -	Filtered the column labels to show only "successful," "failed," and "canceled."
+    -	Filtered the “parent category” to show only data for “theater.” Then, sorted the outcome campaigns in descending order.
+    -	Finally, I create a line chart (i.e. Theater outcomes based on Launch Date) from the pivot table to visualize the relationship between outcomes and launch month. 
+<p>&nbsp;</p> <!-- Adding a blank line -->    
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/34750363/148093537-752d061c-632b-4750-8b77-ea38518bb75a.png)
+<p>&nbsp;</p> <!-- Adding a blank line -->
+### Analysis of Outcomes Based on Goals
+    -	Created a new worksheet “Outcomes Based on Goals” in the Kickstarter_Challenge workbook
+    -	Created eight columns in the new sheet (i.e. goal, number successful, number failed, number cancelled, total projects, percentage successful, percentage failed, percentage       cancelled.)
+    -	Created a dollar-amount ranges in the “Goal” column so projects can be grouped based on their goal amount.
+    -	Used COUNTIFS() excel function and the dollar-amount ranges in the “Goal” column to populate number successful, number failed, number cancelled columns
+    -	Used SUM() excel function to populate  the project total column
+    -	 Calculated the percentages using values in a  of number successful, number failed, number cancelled columns divided by a row total project value
+    -	Finally, I created a line chart titled "Outcomes Based on Goal" to visualize the relationship between the goal-amount ranges on the x-axis and the percentage of                 successful, failed, or canceled projects on the y-axis.
+ <p>&nbsp;</p> <!-- Adding a blank line -->   
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/34750363/148093740-7abff505-acf1-4b32-9337-8dfb2c9c16e8.png)
+<p>&nbsp;</p> <!-- Adding a blank line -->
+### Challenges and Difficulties Encountered
+
+## Results
+
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+May was the successful month for our client campaign, while May and October were the most unsuccessful months for the campaign. For the cancelled campaigns, January was the highest while, for other months appear to have the same outcomes except October where there was no outcome cancelled.
+<p>&nbsp;</p> <!-- Adding a blank line --> 
+The campaigns were most successful for the amount $5000, and the most unsuccessful were the campaigns above $45000. For the canceled campaign there were no peculiar month for the cancelation.
+- What can you conclude about the Outcomes based on Goals?
+My conclusion is that the fund raising campaigns are more successful for small goals (i.e. less than $5000)
+- What are some limitations of this dataset?
+This dataset could be more useful, if it could show the backgroung of the pledging individuals or entities (i.e. participants background). Because, our could run more targeted fund raising campaigns.
+- What are some other possible tables and/or graphs that we could create?
+ We could run category and subcategory statistics tables, outcomes based on goals by country.
