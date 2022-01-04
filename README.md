@@ -52,7 +52,7 @@ _ _ Category Statistics, Subcategory Statistics, Outcomes Based on Launch Date
     -	Filtered the column labels to show only "successful," "failed," and "canceled."
     -	Filtered the “parent category” to show only data for “theater.” Then, sorted the outcome campaigns in descending order.
     -	Finally, I create a line chart (i.e. Theater outcomes based on Launch Date) from the pivot table to visualize the relationship between outcomes and launch month. 
-<p>&nbsp;</p> <!-- Adding a blank line -->    
+  
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/34750363/148093537-752d061c-632b-4750-8b77-ea38518bb75a.png)
 <p>&nbsp;</p> <!-- Adding a blank line -->
 ### Analysis of Outcomes Based on Goals
@@ -63,7 +63,7 @@ _ _ Category Statistics, Subcategory Statistics, Outcomes Based on Launch Date
     -	Used SUM() excel function to populate  the project total column
     -	 Calculated the percentages using values in a  of number successful, number failed, number cancelled columns divided by a row total project value
     -	Finally, I created a line chart titled "Outcomes Based on Goal" to visualize the relationship between the goal-amount ranges on the x-axis and the percentage of                 successful, failed, or canceled projects on the y-axis.
- <p>&nbsp;</p> <!-- Adding a blank line -->   
+ 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/34750363/148093740-7abff505-acf1-4b32-9337-8dfb2c9c16e8.png)
 <p>&nbsp;</p> <!-- Adding a blank line -->
 ### Challenges and Difficulties Encountered
