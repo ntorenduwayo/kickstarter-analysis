@@ -71,12 +71,17 @@ _ _ Category Statistics, Subcategory Statistics, Outcomes Based on Launch Date
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+<p>&nbsp;</p> <!-- Adding a blank line -->
 May was the successful month for our client campaign, while May and October were the most unsuccessful months for the campaign. For the cancelled campaigns, January was the highest while, for other months appear to have the same outcomes except October where there was no outcome cancelled.
 <p>&nbsp;</p> <!-- Adding a blank line --> 
 The campaigns were most successful for the amount $5000, and the most unsuccessful were the campaigns above $45000. For the canceled campaign there were no peculiar month for the cancelation.
+<p>&nbsp;</p> <!-- Adding a blank line -->
 - What can you conclude about the Outcomes based on Goals?
+<p>&nbsp;</p> <!-- Adding a blank line -->
 My conclusion is that the fund raising campaigns are more successful for small goals (i.e. less than $5000)
 - What are some limitations of this dataset?
+<p>&nbsp;</p> <!-- Adding a blank line -->
 This dataset could be more useful, if it could show the backgroung of the pledging individuals or entities (i.e. participants background). Because, our could run more targeted fund raising campaigns.
 - What are some other possible tables and/or graphs that we could create?
+<p>&nbsp;</p> <!-- Adding a blank line -->
  We could run category and subcategory statistics tables, outcomes based on goals by country.
